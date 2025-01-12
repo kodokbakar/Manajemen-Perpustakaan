@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/TitidTerbang/backend-perpustakaan-web.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/TitidTerbang/frontend-perpustakaan-web.git
